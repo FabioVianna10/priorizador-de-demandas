@@ -1,0 +1,37 @@
+.titulo {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.container_tags {
+  padding: 10px 5px;
+  max-width: 100vw;
+  max-height: 100vh;
+}
+
+.box {
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+  padding: 10px;
+  background-color: rgb(244, 230, 230);
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+}
+
+.title_tags {
+  text-transform: capitalize;
+  padding: 5px;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.result {
+  margin-top: 10rem;
+  text-align: center;
+  margin-left: 30rem;
+}
